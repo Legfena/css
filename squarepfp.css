@@ -1,0 +1,9 @@
+/* Hide Status indicator */
+.wrapper-1VLyxH rect {
+    display: none;
+}
+
+/* Rectangle Avatar */
+.avatarStack-3vfSFa {
+    position: relative;
+}
